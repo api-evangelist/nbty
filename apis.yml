@@ -1,7 +1,12 @@
 aid: nbty
-url: https://raw.githubusercontent.com/api-evangelist/nbty/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/nbty/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.nbty.com
+description: >-
+  NBTY was a leading global vertically integrated manufacturer, marketer, distributor,
+  and retailer of vitamins and nutritional supplements before being renamed The Nature's
+  Bounty Co.
