@@ -23,5 +23,9 @@ maintainers:
     email: kin@apievangelist.com
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/NBTY
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/nbty
   - type: Website
     url: https://www.naturesbounty.com/
