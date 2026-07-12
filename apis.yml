@@ -24,6 +24,8 @@ maintainers:
     email: kin@apievangelist.com
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/nbty-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/NBTY
   - type: LinkedIn
