@@ -29,7 +29,7 @@ description: >-
   and retailer of vitamins and nutritional supplements before being renamed The
   Nature's Bounty Co., which was subsequently sold and reorganized. No public APIs
   exist under the NBTY name.
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
