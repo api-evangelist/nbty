@@ -2,11 +2,11 @@ aid: nbty
 url: https://raw.githubusercontent.com/api-evangelist/nbty/refs/heads/main/apis.yml
 name: NBTY
 tags:
-  - Vitamins
-  - Nutritional Supplements
-  - Manufacturing
-  - Defunct
-  - Fortune 1000
+- Vitamins
+- Nutritional Supplements
+- Manufacturing
+- Defunct
+- Fortune 1000
 type: Index
 deliveryModel:
   model: unknown
@@ -33,24 +33,23 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nbty.png
 access: 3rd-Party
 created: '2026-03-24'
-modified: '2026-04-28'
+modified: '2026-09-15'
 position: Consuming
-description: >-
-  NBTY was a leading global vertically integrated manufacturer, marketer, distributor,
-  and retailer of vitamins and nutritional supplements before being renamed The
-  Nature's Bounty Co., which was subsequently sold and reorganized. No public APIs
-  exist under the NBTY name.
+description: NBTY was a leading global vertically integrated manufacturer, marketer, distributor, and
+  retailer of vitamins and nutritional supplements before being renamed The Nature's Bounty Co., which
+  was subsequently sold and reorganized. No public APIs exist under the NBTY name.
 specificationVersion: '0.23'
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
 apis: []
 common:
-  - type: DomainSecurity
-    url: security/nbty-domain-security.yml
-  - type: GitHubOrganization
-    url: https://github.com/NBTY
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/nbty
-  - type: Website
-    url: https://www.naturesbounty.com/
+- type: DomainSecurity
+  url: security/nbty-domain-security.yml
+- type: GitHubOrganization
+  url: https://github.com/NBTY
+- type: LinkedIn
+  url: https://www.linkedin.com/company/nbty
+- type: Website
+  url: https://www.naturesbounty.com/
+x-status: defunct
