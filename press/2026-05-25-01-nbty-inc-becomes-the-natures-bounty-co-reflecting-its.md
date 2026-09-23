@@ -1,7 +1,9 @@
 ---
 title: NBTY Inc. Becomes The Nature's Bounty Co., Reflecting its ...
 url: https://www.prnewswire.com/news-releases/nbty-inc-becomes-the-natures-bounty-co-reflecting-its-commitment-to-global-wellness-300361781.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NBTY" press release artificial intelligence'
 position: 1
 source: serpapi-google

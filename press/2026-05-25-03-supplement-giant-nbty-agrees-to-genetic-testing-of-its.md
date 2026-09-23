@@ -1,7 +1,9 @@
 ---
 title: Supplement giant NBTY agrees to genetic testing of its ...
 url: https://www.seattletimes.com/nation-world/supplement-giant-nbty-agrees-to-genetic-testing-of-its-herbal-products/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NBTY" press release artificial intelligence'
 position: 3
 source: serpapi-google

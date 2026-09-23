@@ -1,7 +1,9 @@
 ---
 title: Carlyle hires Goldman Sachs to help sell Nature's Bounty
 url: https://www.reuters.com/article/world/americas/carlyle-hires-goldman-sachs-to-help-sell-natures-bounty-sources-idUSKBN14Q0YH/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NBTY" press release artificial intelligence'
 position: 4
 source: serpapi-google

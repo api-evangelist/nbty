@@ -1,7 +1,9 @@
 ---
 title: NBTY Inc. Term Loan Rated 'B+'; Corporate Credit
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/1616472
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NBTY" press release artificial intelligence'
 position: 5
 source: serpapi-google
